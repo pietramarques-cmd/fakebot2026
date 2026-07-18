@@ -1,10 +1,10 @@
 const lista = [
     "Olá, bom dia!",
-    "Tudo bem? Sou uma IA falsa",
+    "Tudo bem? Sou uma IA falsa.",
     "Estamos no ano de copa.",
     "Vamos torcer juntos!",
     "O hexa vem! Vai Brasil!",
-    "Até logo."
+    "Tchauzinho."
 ]
 
 
